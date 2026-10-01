@@ -30,3 +30,19 @@ filmsSet.discard(True)
 # 7 - Limpar o conjunto de filmes
 filmsSet.clear()
 print(filmsSet)  # set()
+
+# 8 - Remover duplicatas de uma set usando set
+setNum = {4, 7, 4, 9, 7}
+print(setNum)  # {4, 7, 9}
+
+# 9 - Maior valor dos números do set
+print(max(setNum))  # 9
+
+# 10 - Menor valor dos números do set
+print(min(setNum))  # 4
+
+# 12 - Somar todos os valores do set
+print(sum(setNum))  # 20
+
+# 13 - Quantidade de elementos unicos do set
+print(len(setNum))  # 3
