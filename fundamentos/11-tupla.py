@@ -2,6 +2,8 @@ filmsTuple = ("Interstellar", "Exorcista", "O Poderoso Chefão", "A Origem", "O 
 
 print(type(filmsTuple))  # <class 'tuple'>
 
+
+
 # 1 - Buscar os 2 primeiros filmes da tupla de filmes
 print(filmsTuple[:2])  # Interstellar, Exorcista
 
@@ -19,3 +21,6 @@ print(len(filmsTuple))  # 5
 
 # 6 - Recuperar um item pelo índice da tupla de filmes pelo nome
 print(filmsTuple.index("O Poderoso Chefão"))  # 2
+
+# 7 - Todos os itens da tupla de filmes
+print(filmsTuple)  # ("Interstellar", "Exorcista", "O Poderoso Chefão", "A Origem", "O Senhor dos Anéis")
