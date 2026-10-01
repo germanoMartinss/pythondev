@@ -29,3 +29,10 @@ print(f"O primeiro número é igual ao segundo número? {equal}")
 print(f"O primeiro número é diferente do segundo número? {notEqual}")
 print(f"O primeiro número é maior ou igual ao segundo número? {greaterOrEqual}")
 print(f"O primeiro número é menor ou igual ao segundo número? {lessOrEqual}")
+
+# Atribuição
+num1 += 10
+num1 -= 10
+num1 *= 10
+num1 /= 10
+
