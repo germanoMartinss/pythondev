@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<clientes>
+    <cliente>
+        <id>1</id>
+        <nome>Germano</nome>
+        <idade>35</idade>
+        <cidade>Santos</cidade>
+    </cliente>
+    <cliente>
+        <id>2</id>
+        <nome>Fernanda</nome>
+        <idade>28</idade>
+        <cidade>Rio de Janeiro</cidade>
+    </cliente>
+    <cliente>
+        <id>3</id>
+        <nome>Carlos</nome>
+        <idade>42</idade>
+        <cidade>Sorocaba</cidade>
+    </cliente>
+</clientes>
